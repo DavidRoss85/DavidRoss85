@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidRoss85
 - 👀 I love all things tech/science related.
-- 🌱 I’m currently learning C++, and C#.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on any project that can grow my skills as a developer.
 - 📫 Find my web portfolio at davidross-web-portfolio.web.app. You can reach me via LinkedIn ([david](https://www.linkedin.com/in/david-a-ross-wa/), or Instagram (davidross.sdev)!
 - 😄 Pronouns: He/Him
